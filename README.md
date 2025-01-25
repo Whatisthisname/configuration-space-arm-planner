@@ -1,3 +1,5 @@
+## [Link to interactive page here](https://whatisthisname.github.io/configuration-space-arm-planner/)
+
 # Configuration space visualization of arm with n-segments
 There are two "modes" associated with this visualization, RRT* / planning mode, and gradient mode. They can be switched between on the top left dropdown in the browser. Here I will present the two modes briefly:
 
